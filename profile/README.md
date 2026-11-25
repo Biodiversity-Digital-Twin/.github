@@ -6,4 +6,4 @@ The ESDT will provide a comprehensive digital representation and near-term forec
 
 Our system addresses three critical questions: What Then (past state), What Now (current state), and What Next (future forecasts) — providing stakeholders with actionable insights for conservation and policy decisions.
 
-Additional information is available at the [project website](https://github.jpl.nasa.gov/pages/seungwon/biodiversity-dt-webpages/).
+Additional information is available at the [project website](https://biodiversity-digital-twin.github.io/biodiversity-dt-webpages/).
